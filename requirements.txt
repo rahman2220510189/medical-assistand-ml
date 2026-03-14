@@ -3,8 +3,7 @@ uvicorn
 pandas
 scikit-learn
 joblib
-fuzzywuzzy
-python-Levenshtein
+rapidfuzz
 groq
 python-multipart
-requests
+nltk
